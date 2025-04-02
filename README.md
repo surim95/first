@@ -53,3 +53,11 @@
 10. `git status` 위 9번 업로드 됐는지 확인(초록색 변경)
 11. `git commit -m '메세지'` 수정 파일에 대한 기록 메시지 작성
 12. `git push origin main` 깃허브 저장소에 업로드
+----
+## 과제: html, meta 속성 뜻
+### html 속성
+* `<html lang="ko">` : 컴퓨터의 화면 낭독 소프트웨어 "스크린 로더기"
+### meta 속성
+1. `<meta charset="UTF-8">` : 문자열을 유니코드로, 다국어 지원
+2. `<meta name="description" content="">` : 요약 설명
+3. `<meta name="keywords" content="">` : 검색어 설정
